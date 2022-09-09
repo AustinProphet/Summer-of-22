@@ -1,0 +1,15 @@
+C:\Code\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.exe
+C:\Code\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.deps.json
+C:\Code\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.runtimeconfig.json
+C:\Code\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.dll
+C:\Code\XMLConverter\XMLConverter\bin\Debug\net6.0\XMLConverter.pdb
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.csproj.AssemblyReference.cache
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.AssemblyInfoInputs.cache
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.AssemblyInfo.cs
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.csproj.CoreCompileInputs.cache
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.dll
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\refint\XMLConverter.dll
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.pdb
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\XMLConverter.genruntimeconfig.cache
+C:\Code\XMLConverter\XMLConverter\obj\Debug\net6.0\ref\XMLConverter.dll
